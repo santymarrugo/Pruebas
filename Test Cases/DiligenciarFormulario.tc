@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test para diligenciar un formulario para Sophos</description>
+   <name>DiligenciarFormulario</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e73bba8b-9faf-4fa9-ae6c-5a9e283b6fe5</testCaseGuid>
+</TestCaseEntity>
